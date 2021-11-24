@@ -1,0 +1,18 @@
+Add dependencies:
+     spring web
+     spring data jpa
+     my sql driver
+     java 8
+     maven
+  ./mvnw spring-boot:run
+  
+  
+  
+  For kubenetes
+  npm init
+  node javascript filename
+  node install express --save
+  
+     
+     
+   
